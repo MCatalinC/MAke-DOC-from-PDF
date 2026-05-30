@@ -1,0 +1,6 @@
+streamlit
+anthropic
+pdfplumber
+python-docx
+pdf2image
+pytesseract
